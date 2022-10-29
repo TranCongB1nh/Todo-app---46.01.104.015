@@ -52,7 +52,11 @@ export const About = () => {
                         <Col>
                             
                             <h1>{`Xin chào! Tôi là Trần Công Bình`} <span className="txt-rotate" dataPeriod="1000" data-rotate='[ " Đẹp Trai ", " Tài Năng ", " Lãnh Đạo " ]'><span className="wrap">{text}</span></span></h1>
-                            <p>Tôi hiện là sinh viên của trường Đại Học Sư Phạm Thành phố Hố Chí Minh. Tôi học khoa Công nghệ thông tin, thuộc lớp CNTTA, chuyên ngành của tôi là công nghệ phần mềm.
+                            <p>MSSV: 46.01.104.015
+                                <br></br>
+                                Email: tbinh2890@gmail.com
+                                <br></br>
+                                Tôi hiện là sinh viên của trường Đại Học Sư Phạm Thành phố Hố Chí Minh. Tôi học khoa Công nghệ thông tin, thuộc lớp CNTTA, chuyên ngành của tôi là công nghệ phần mềm.
                                 <br></br>
                                 TODO-app là dự án đầu tiên tôi tạo ra bằng ngôn ngữ reactjs. Đây là trang web gồm phần chính TODO giúp quản lý giờ giấc sinh hoạt hằng ngày, ngoài ra còn có trang Login giúp đăng nhập tài khoản người dùng, trang About để giới thiệu bản thân và trang Home để thông báo
                             </p>
